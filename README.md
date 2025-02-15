@@ -27,3 +27,12 @@ This project is a personal repository for @CasP0. It serves as a platform to sho
 ## How to clone this repository
 
 gh repo clone CasP0/CasP0
+
+## How to use gh pr checkout
+
+The `gh pr checkout` command allows you to check out a pull request locally. This is useful for testing and reviewing changes before merging them.
+
+Example usage:
+```
+gh pr checkout 2
+```
